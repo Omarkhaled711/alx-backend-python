@@ -5,7 +5,7 @@ module for the fourth task
 """
 
 
-def floor(n: float) -> str:
+def to_str(n: float) -> str:
     """
     returns the string representation of a float number.
     """
